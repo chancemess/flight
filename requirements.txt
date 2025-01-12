@@ -1,0 +1,5 @@
+pip install datetime
+pip install amadeus
+pip install pytest
+from amadeus import Client, ResponseError
+from datetime import datetime, timedelta
