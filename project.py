@@ -4,8 +4,8 @@ from amadeus import Client, ResponseError
 
 ### generated from free amadeus account
 amadeus = Client(
-        client_id="AYVb3fOiA1iLGpN1uofiJUazbXQhzpFK",
-        client_secret="Ykt5d7U4aXhoHqJS"
+        client_id="******************",
+        client_secret="************"
     )
 
 ### get valid airport code(three letters only)
