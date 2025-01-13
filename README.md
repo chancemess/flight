@@ -14,8 +14,8 @@ from datetime import datetime, timedelta
 ### **API Key:**
 ```
 amadeus =
-        client_id="AYVb3fOiA1iLGpN1uofiJUazbXQhzpFK"
-        client_secret="Ykt5d7U4aXhoHqJS"
+        client_id="*****************"
+        client_secret="************"
 ```
 ### **How to Use:**
 When you run the program, it will ask, "Where are you leaving from?" and "Going to?". The user inputs an IATA airport code in the form of three letters. Once the departure and arrival airport codes are entered, the program will prompt for departure date and arrival date. The user inputes in the ISO 8601 format (YYYY-MM-DD). Once the user inputs all of the information the program will output flight results with prices.
